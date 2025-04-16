@@ -7,16 +7,15 @@
 - requests                  2.32.3
 - beautifulsoup4            4.12.3
 - selenium selenium         4.31.0
-...
-(版本號可用 pip list，或是 conda list 來檢視)
-...
 
 ## 成果
-![](執行過程的擷圖或說明圖片)
-...
-[影片名稱或其它標題](你的影片連結)
-...
+共計：410本（檔案總管左下角）
+![image](https://github.com/user-attachments/assets/efdcb806-5a50-4afe-89a7-1753b134e9d8)
+
+[影片名稱或其它標題]
+https://www.youtube.com/watch?v=AjGJBk-cy00
 
 ## 其它你想要補充標題和內容
-...
-...
+
+待改進項目：並無排版，也未抓取中文字間的空格
+![image](https://github.com/user-attachments/assets/6508e6ed-73f3-4a61-8789-1b58bbc75d00)
